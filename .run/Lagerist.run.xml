@@ -11,7 +11,7 @@
     <option name="nonInteractiveModeEnabled" value="false" />
     <option name="passParentEnvs" value="true" />
     <option name="perlParameters" value="" />
-    <option name="programParameters" value="--loglevel=DEBUG --stock=&quot;data/stock-001.xlsx&quot; data/bom.xls" />
+    <option name="programParameters" value="data/bom.xls" />
     <option name="projectPathOnTarget" />
     <option name="scriptCharset" value="utf8" />
     <option name="scriptPath" value="$PROJECT_DIR$/script/Lagerist.pl" />
